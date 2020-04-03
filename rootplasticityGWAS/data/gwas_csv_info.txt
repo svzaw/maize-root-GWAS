@@ -1,0 +1,22 @@
+V1	V2	V3	csv_file	table_name	phene	plasticity	loc
+.	URBC_Arch_Data	ARBC	FarmCPU.ANG_TOP.pl.GWAS.Results.csv	ARBC_FarmCPU.ANG_TOP.pl.GWAS	ANGLE	STRPL	AZ
+.	URBC_Arch_Data	ARBC	FarmCPU.ANG_TOP.ws.GWAS.Results.csv	ARBC_FarmCPU.ANG_TOP.ws.GWAS	ANGLE	WS	AZ
+.	URBC_Arch_Data	ARBC	FarmCPU.ANG_TOP.ww.GWAS.Results.csv	ARBC_FarmCPU.ANG_TOP.ww.GWAS	ANGLE	WW	AZ
+.	URBC_Arch_Data	ARBC	FarmCPU.avg..lateral.length.pl.GWAS.Results.csv	ARBC_FarmCPU.avg..lateral.length.pl.GWAS	LL	STRPL	AZ
+.	URBC_Arch_Data	ARBC	FarmCPU.avg..lateral.length.ws.GWAS.Results.csv	ARBC_FarmCPU.avg..lateral.length.ws.GWAS	LL	WS	AZ
+.	URBC_Arch_Data	ARBC	FarmCPU.avg..lateral.length.ww.GWAS.Results.csv	ARBC_FarmCPU.avg..lateral.length.ww.GWAS	LL	WW	AZ
+.	URBC_Arch_Data	ARBC	FarmCPU.dist.to.first.lateral.pl.GWAS.Results.csv	ARBC_FarmCPU.dist.to.first.lateral.pl.GWAS	DISTLAT	STRPL	AZ
+.	URBC_Arch_Data	ARBC	FarmCPU.dist.to.first.lateral.ws.GWAS.Results.csv	ARBC_FarmCPU.dist.to.first.lateral.ws.GWAS	DISTLAT	WS	AZ
+.	URBC_Arch_Data	ARBC	FarmCPU.dist.to.first.lateral.ww.GWAS.Results.csv	ARBC_FarmCPU.dist.to.first.lateral.ww.GWAS	DISTLAT	WW	AZ
+.	URBC_Arch_Data	ARBC	FarmCPU.lateral.branching.frequency.pl.GWAS.Results.csv	ARBC_FarmCPU.lateral.branching.frequency.pl.GWAS	BF	STRPL	AZ
+.	URBC_Arch_Data	ARBC	FarmCPU.lateral.branching.frequency.ws.GWAS.Results.csv	ARBC_FarmCPU.lateral.branching.frequency.ws.GWAS	BF	WS	AZ
+.	URBC_Arch_Data	ARBC	FarmCPU.lateral.branching.frequency.ww.GWAS.Results.csv	ARBC_FarmCPU.lateral.branching.frequency.ww.GWAS	BF	WW	AZ
+.	URBC_Arch_Data	URBC	FarmCPU.ANG.GWAS.Results.csv	URBC_FarmCPU.ANG.GWAS	ANGLE	WW	SA
+.	URBC_Arch_Data	URBC	FarmCPU.ANG_pl.GWAS.Results.csv	URBC_FarmCPU.ANG_pl.GWAS	ANGLE	ENVPL	AZSA
+.	URBC_Arch_Data	URBC	FarmCPU.BF.GWAS.Results.csv	URBC_FarmCPU.BF.GWAS	BF	WW	SA
+.	URBC_Arch_Data	URBC	FarmCPU.BF.pl.GWAS.Results.csv	URBC_FarmCPU.BF.pl.GWAS	BF	ENVPL	AZSA
+.	URBC_Arch_Data	URBC	FarmCPU.DISTFL.GWAS.Results.csv	URBC_FarmCPU.DISTFL.GWAS	DISTLAT	WW	SA
+.	URBC_Arch_Data	URBC	FarmCPU.DISTFL.pl.GWAS.Results.csv	URBC_FarmCPU.DISTFL.pl.GWAS	DISTLAT	ENVPL	AZSA
+.	URBC_Arch_Data	URBC	FarmCPU.LL.GWAS.Results.csv	URBC_FarmCPU.LL.GWAS	LL	WW	SA
+.	URBC_Arch_Data	URBC	FarmCPU.LL.pl.GWAS.Results.csv	URBC_FarmCPU.LL.pl.GWAS	LL	ENVPL	AZSA
+
